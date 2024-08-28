@@ -1,0 +1,35 @@
+{
+    "name": "care4life",
+    "short_name": "care4life",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Care4Life is a platform that provides a variety of care services. It connects individuals and families with caregivers who can assist with child care, senior care, pet care, housekeeping, and more. Users can search for caregivers in their area, view profiles, and reviews, and then choose the service provider that best meets their needs. The app also offers tools and information to help users manage their care requirements effectively.​",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
